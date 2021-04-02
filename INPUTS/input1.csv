@@ -1,0 +1,4 @@
+Name;Quantity;Price;Type;IsImported
+Livre;1;12.49;LIVRE;false
+CD;1;14.99;AUTRE;false
+Barre de chocolat;1;0.85;NOURRITURE;false

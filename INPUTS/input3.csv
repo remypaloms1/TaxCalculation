@@ -1,0 +1,5 @@
+Name;Quantity;Price;Type;IsImported
+Parfum importé;1;27.99;AUTRE;true
+Parfum;1;18.99;AUTRE;false
+Pilules;1;9.75;MEDICAMENT;false
+Boîte de chocolat importée;1;11.25;NOURRITURE;true
